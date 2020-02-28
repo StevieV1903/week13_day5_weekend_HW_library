@@ -5,11 +5,6 @@ class Book {
     this.genre = genre;
   }
 }
-
-
-
-
-
 // const Book = function (author, title, genre) {
 //   this.author = author;
 //   this.title = title;
